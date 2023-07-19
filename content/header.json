@@ -9,8 +9,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/acessorios-vestuario/?ACESSÓRIOS-VESTUÁRIO"
+    ],
+    "random": 7,
     "full_width": false
   },
   "centralized_logo": false,
