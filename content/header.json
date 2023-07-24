@@ -19,7 +19,7 @@
       "/promocoes/?PROMOÇÕES"
     ],
     "random": 7,
-    "full_width": false
+    "full_width": true
   },
   "centralized_logo": false,
   "desktop_megamenu": true,
