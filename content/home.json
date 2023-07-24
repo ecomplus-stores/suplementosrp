@@ -21,7 +21,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/e7d54ad3-ea1e-4776-81df-939ff457217d.png"
+      "img": "/img/uploads/e7d54ad3-ea1e-4776-81df-939ff457217d.png",
+      "link": "https://suplementosrp.netlify.app/pages/entrega"
     },
     {
       "type": "banners-grid",
