@@ -16,7 +16,7 @@
   "main": "template/js/index.js",
   "scripts": {
     "serve": "storefront-tmpl-pack serve",
-    "build": "STOREFRONT_ASSETS=https://s1-barradoce.b-cdn.net ECOMCLIENT_NOTIMEOUT=true storefront-tmpl-pack build",
+    "build": "ECOMCLIENT_NOTIMEOUT=true storefront-tmpl-pack build",
     "setup": "storefront-tmpl"
   },
   "author": "E-Com Club <ti@e-com.club>",
@@ -41,12 +41,11 @@
     "url": "git+https://github.com/ecomplus/storefront-starter.git"
   },
   "dependencies": {
-    "@ecomplus/storefront-template": "^2.0.0-beta.245",
+    "@ecomplus/storefront-template": "^2.0.0-beta.239",
     "@netlify/zip-it-and-ship-it": "^8.10.0",
-    "firebase-tools": "^11.28.0"
+    "firebase-tools": "^11.30.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.29.3",
-    "standard": "^17.1.0"
+    "browser-sync": "^2.29.3"
   }
 }
