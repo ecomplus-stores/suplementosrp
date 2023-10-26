@@ -11,7 +11,7 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/8831cd09-5368-44ed-bf48-f4765800ba53.jpg",
-          "link": "https://suplementosrp.netlify.app/proteinas"
+          "link": "/proteinas"
         },
         {
           "start": "",
@@ -23,18 +23,18 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/e7d54ad3-ea1e-4776-81df-939ff457217d.png",
-      "link": "https://suplementosrp.netlify.app/pages/entrega"
+      "link": "/pages/entrega"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/76d1b8a4-95d8-4ea6-9ea6-770017d209ce.gif",
-          "link": "https://www.suplementosrp.com.br/treinofuncional/"
+          "link": "/treinofuncional/"
         },
         {
           "img": "/img/uploads/01379eaa-82ea-1b3d-b5f7-c37e81414dc7.jpg",
-          "link": "https://www.suplementosrp.com.br/promocoes/"
+          "link": "/promocoes/"
         },
         {
           "link": "http://wa.me/5516981277111",
