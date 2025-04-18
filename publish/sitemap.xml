@@ -446,6 +446,96 @@
     </url>
   
     <url>
+      <loc>https://suplementosrp.netlify.app/vitamina-d3-k2-liquida-sabor-limao-20ml-dux</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/testron-pro-hormonal-60-capsulas-nutrends</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/glucosamina-750mg-nutrends-60-caps</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/furious-pre-workout-nutrends-50-doses</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/joint-flex-colag-t2-msm-ac-hial-60-caps</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/termogenico-thermo-fuel-60-caps</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/pre-treino-bone-crusher-nova-formula-300g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/ciclo-30-dias-testosterona-alta-testrol-up-dilafit-l-carnitina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/testrol-up-ciclo-30-dias-profit-labs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/maca-peruana-black-time-release-1000mg-nbf</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/combo-whey-concentrado-cafeina-90-caps-dux</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/cafeina-dux-90-capsulas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/creatina-pura-dux-300g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/melatonina-now-10mg-100-capsulas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/pre-treino-fire-gun-300g-military-force-profitlabs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://suplementosrp.netlify.app/rudel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -824,15 +914,15 @@
     </url>
   
     <url>
-      <loc>https://suplementosrp.netlify.app/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://suplementosrp.netlify.app/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
