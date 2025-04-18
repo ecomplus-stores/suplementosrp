@@ -218,6 +218,54 @@
     </url>
   
     <url>
+      <loc>https://suplementosrp.netlify.app/complete-multi-men-maca-peruana-negra-zma-revigoran</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/arginina-boro-60-caps-vitaminlife</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/brain-support-fosfatidilserina-colina-associacoes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/nac-acetilcisteina-extrato-de-propolis-600mg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/coenzima-q10-coq10-100mg-vitamina-e-60-capsulas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/multivitaminico-men-complet-arginina-hmb-boro-60caps</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/dhea-25mg-90-capsulas-mrm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/testosterona</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://suplementosrp.netlify.app/emagrecimento/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1034,13 +1082,13 @@
     </url>
   
     <url>
-      <loc>https://suplementosrp.netlify.app/app/index</loc>
+      <loc>https://suplementosrp.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://suplementosrp.netlify.app/admin/index</loc>
+      <loc>https://suplementosrp.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
