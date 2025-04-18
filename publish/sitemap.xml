@@ -164,6 +164,60 @@
     </url>
   
     <url>
+      <loc>https://suplementosrp.netlify.app/zinco-quelatado-28mg-bisglicinato-de-zinco-90-capsulas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/maca-max-500mg-maca-peruana-90-capsulas-vitaminlife</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/triple-magnesium-malato-taurato-bisglicinato-60-capsulas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/promopack-road-to-olympia-horus-300g-creatina-100g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/melatonina-dietmethods-500-comprimidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/pasta-de-amendoim-dr-peanut-proteinas-em-pote-de-600g</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/fitas-reagentes-g-tech-lite-glicemia-50-unidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/balanca-medicao-de-agua-gordura-massa-muscular-ossea-glass-7</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://suplementosrp.netlify.app/kit-emagrecimento-max-shake-adrenex-thermo-coqueteleira</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://suplementosrp.netlify.app/emagrecimento/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -980,13 +1034,13 @@
     </url>
   
     <url>
-      <loc>https://suplementosrp.netlify.app/admin/index</loc>
+      <loc>https://suplementosrp.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://suplementosrp.netlify.app/app/index</loc>
+      <loc>https://suplementosrp.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
