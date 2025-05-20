@@ -1,10 +1,29 @@
 {
+  "categories_list": {
+    "featured": [
+      "/acessorios-vestuario/?ACESSÓRIOS-VESTUÁRIO",
+      "/massa-muscular/?MASSA MUSCULAR",
+      "/energia/?ENERGIA",
+      "/emagrecimento/?EMAGRECIMENTO",
+      "/vitaminas-fitoterapicos/?ESPECÍFICOS-VITAMINAS",
+      "/saude/?SAÚDE",
+      "/promocoes/?PROMOÇÕES"
+    ],
+    "random": 7,
+    "full_width": false
+  },
+  "menu_all_departments": true,
+  "centralized_logo": false,
   "marketing_stripe": {
     "text": "📦 FRETE GRÁTIS, CONSULTE",
     "link": "https://suplementosrp.netlify.app/pages/entrega",
     "background": "#e0e0e0",
     "color": "#121212"
   },
+  "alphabetical_order_submenu": true,
+  "search_input": true,
+  "desktop_megamenu": true,
+  "full_width_submenu": true,
   "contacts_stripe": {
     "pages": [
       {
@@ -26,23 +45,5 @@
     ],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [
-      "/acessorios-vestuario/?ACESSÓRIOS-VESTUÁRIO",
-      "/massa-muscular/?MASSA MUSCULAR",
-      "/energia/?ENERGIA",
-      "/emagrecimento/?EMAGRECIMENTO",
-      "/vitaminas-fitoterapicos/?ESPECÍFICOS-VITAMINAS",
-      "/saude/?SAÚDE",
-      "/promocoes/?PROMOÇÕES"
-    ],
-    "random": 7,
-    "full_width": true
-  },
-  "centralized_logo": false,
-  "desktop_megamenu": true,
-  "search_input": true,
-  "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  }
 }
