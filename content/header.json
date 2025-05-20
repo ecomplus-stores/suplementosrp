@@ -1,10 +1,29 @@
 {
   "marketing_stripe": {
-    "text": "",
-    "link": ""
+    "text": "📦 FRETE GRÁTIS, CONSULTE",
+    "link": "https://suplementosrp.netlify.app/pages/entrega",
+    "background": "#e0e0e0",
+    "color": "#121212"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "MINHA CONTA",
+        "link": "https://suplementosrp.netlify.app/app/#/account/"
+      },
+      {
+        "title": "VER PEDIDOS",
+        "link": "https://suplementosrp.netlify.app/app/#/account/orders"
+      },
+      {
+        "title": "COMO COMPRAR",
+        "link": "https://suplementosrp.netlify.app/pages/faq"
+      },
+      {
+        "title": "COMPRE POR WHATSAPP",
+        "link": "https://wa.me/5516981277111"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
