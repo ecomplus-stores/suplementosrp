@@ -1,10 +1,10 @@
 {
   "domain": "suplementosrp.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff001e",
+  "primary_color": "#bd3600",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/suplementosrp",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Inter",
   "favicon": "/img/uploads/favicon.jpg",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#383838",
   "icon": "/img/uploads/logo.png",
