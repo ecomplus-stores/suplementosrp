@@ -10,7 +10,7 @@
       "/promocoes/?PROMOÇÕES"
     ],
     "random": 7,
-    "full_width": false
+    "full_width": true
   },
   "menu_all_departments": true,
   "centralized_logo": false,
