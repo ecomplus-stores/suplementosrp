@@ -43,9 +43,68 @@
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a35bed5e6069037052a0f3:categories:ACESSÓRIOS-VESTUÁRIO:/acessorios-vestuario/",
+      "sort": "sales",
+      "link": "https://suplementosrp.netlify.app/acessorios-vestuario/",
+      "title": "Turbine Seu Treino: Acessórios e Roupas Fitness de Alta Performance"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a35bf75e6069037052a116:categories:MASSA MUSCULAR:/massa-muscular/",
+      "sort": "views",
+      "link": "https://suplementosrp.netlify.app/massa-muscular/",
+      "title": "Maximize Seus Ganhos: Suplementos Potentes para Massa Muscular"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a35bfd5e6069037052a128:categories:ENERGIA:/energia/",
+      "sort": "news",
+      "title": "Suplementos Energéticos: Mais Foco e Disposição para Seu Dia a Dia",
+      "link": "https://suplementosrp.netlify.app/energia/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a35be95e6069037052a0df:categories:EMAGRECIMENTO:/emagrecimento/",
+      "sort": "views",
+      "link": "https://suplementosrp.netlify.app/emagrecimento/",
+      "title": "Emagrecimento Saudável: Suplementos para Perder Peso e Definir"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a35bef5e6069037052a0fd:categories:ESPECÍFICOS-VITAMINAS:/vitaminas-fitoterapicos/",
+      "sort": "news",
+      "link": "https://suplementosrp.netlify.app/vitaminas-fitoterapicos/",
+      "title": "Fortaleça Seu Corpo: A Linha Completa de Vitaminas e Minerais"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64a35beb5e6069037052a0e9:categories:SAÚDE:/saude/",
+      "sort": "views",
+      "link": "https://suplementosrp.netlify.app/saude/",
+      "title": "Tecnologia para Seu Bem-Estar: Medidores, Inaladores, Massageadores e Mais"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
