@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "/*pc*/@media (min-width: 601px){\n.top-bar__nav {\n  color: #010101;background-color:#ebebeb;}\n  .header{background: #E0E0E0;\nbackground: -webkit-linear-gradient(90deg,rgba(224, 224, 224, 1) 0%, rgba(247, 247, 247, 1) 50%, rgba(227, 227, 227, 1) 100%);\nbackground: -moz-linear-gradient(90deg,rgba(224, 224, 224, 1) 0%, rgba(247, 247, 247, 1) 50%, rgba(227, 227, 227, 1) 100%);\nbackground: linear-gradient(90deg,rgba(224, 224, 224, 1) 0%, rgba(247, 247, 247, 1) 50%, rgba(227, 227, 227, 1) 100%);\nfilter: progid:DXImageTransform.Microsoft.gradient(\n  startColorstr=\"#E0E0E0\",\n  endColorstr=\"#E3E3E3\",\n  GradientType=1\n);box-shadow:-6px 15px 14px -9px rgba(0, 0, 0, 0.37);}\n  .header__logo{max-height: 90px;max-width: 300px;}\n  .header__search-input {border-radius: 1.5rem;border: 1px solid #c0c0c0;width:400px;}\n  ",
   "html_head": "",
   "html_body": "<a href=\"https://wa.me/5516981277111?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
