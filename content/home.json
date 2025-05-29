@@ -22,8 +22,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/e7d54ad3-ea1e-4776-81df-939ff457217d.png",
-      "link": "/pages/entrega"
+      "img": "/img/uploads/fachada-suplementosrp.png",
+      "link": "/pages/entrega",
+      "mobile_img": "/img/uploads/fachada-suplementosrp-mobile.png"
     },
     {
       "type": "banners-grid",
