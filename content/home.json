@@ -47,6 +47,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "[PROMOÇÕES DO MÊS ](https://suplementosrp.netlify.app/promocoes/)"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
