@@ -8,15 +8,18 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2025-06-07T16:09:11.467Z",
           "end": "",
           "img": "/img/uploads/8831cd09-5368-44ed-bf48-f4765800ba53.jpg",
-          "link": "/proteinas"
+          "link": "/proteinas",
+          "mobile_img": "/img/uploads/suplementos-whey-mobile.png"
         },
         {
-          "start": "",
+          "start": "2025-06-07T16:09:43.737Z",
           "end": "",
-          "img": "/img/uploads/40d69953-78e0-45ea-9767-5a57b4c3b500.jpg"
+          "img": "/img/uploads/40d69953-78e0-45ea-9767-5a57b4c3b500.jpg",
+          "mobile_img": "/img/uploads/suplementos-frete-mobile.png",
+          "link": "/pages/entrega"
         }
       ]
     },
