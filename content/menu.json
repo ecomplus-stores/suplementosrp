@@ -5,7 +5,9 @@
     "energia/",
     "emagrecimento/",
     "vitaminas-fitoterapicos/",
-    "saude/"
+    "saude/",
+    "promocoes/",
+    "whey-concentrado/"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
