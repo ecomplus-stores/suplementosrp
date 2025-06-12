@@ -1,3 +1,11 @@
 {
-  "sections": []
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "search-engine",
+      "enabled": true
+    }
+  ]
 }
