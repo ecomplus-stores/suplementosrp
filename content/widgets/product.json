@@ -5,10 +5,10 @@
   "options": {
     "buyText": "",
     "buy": "",
-    "strHasQuantitySelector": "_",
-    "strHasPromotionTimer": "_",
+    "strHasQuantitySelector": " ",
+    "strHasPromotionTimer": "true",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 6,
-    "quoteInfo": ""
+    "quoteInfo": "https://wa.me/5516981277111?text=Ola%20estou%20na%20sua%20loja"
   }
 }
