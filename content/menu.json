@@ -1,15 +1,14 @@
 {
   "sort_categories": [
+    "promocoes/",
     "acessorios-vestuario/",
     "massa-muscular/",
     "energia/",
     "emagrecimento/",
     "vitaminas-fitoterapicos/",
-    "saude/",
-    "promocoes/",
-    "whey-concentrado/"
+    "saude/"
   ],
-  "alphabetical_order": true,
+  "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
 }
