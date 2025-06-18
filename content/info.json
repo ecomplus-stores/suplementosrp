@@ -3,20 +3,22 @@
     "show": true,
     "text": "Frete Grátis, consulte",
     "title": "Envio para Todo Brasil",
-    "link": "https://suplementosrp.netlify.app/pages/entrega"
+    "link": "/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "",
     "title": "Parcele em até 3x sem juros",
-    "link": "https://suplementosrp.netlify.app/pages/pagamentos"
+    "link": "/pages/pagamentos"
   },
   "exchange": {
     "show": false,
     "text": ""
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "",
+    "link": "/promocoes/",
+    "title": "Confira as Promoções"
   }
 }
