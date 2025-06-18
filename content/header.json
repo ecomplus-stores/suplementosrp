@@ -21,7 +21,7 @@
     "color": "#121212"
   },
   "alphabetical_order_submenu": true,
-  "name_all_departments": "NOSSOS PRODUTOS",
+  "name_all_departments": "TODOS",
   "search_input": true,
   "desktop_megamenu": true,
   "full_width_submenu": true,
@@ -29,15 +29,15 @@
     "pages": [
       {
         "title": "MINHA CONTA",
-        "link": "https://suplementosrp.netlify.app/app/#/account/"
+        "link": "/app/#/account/"
       },
       {
         "title": "VER PEDIDOS",
-        "link": "https://suplementosrp.netlify.app/app/#/account/orders"
+        "link": "/app/#/account/orders"
       },
       {
         "title": "COMO COMPRAR",
-        "link": "https://suplementosrp.netlify.app/pages/faq"
+        "link": "/pages/faq"
       },
       {
         "title": "COMPRE POR WHATSAPP",
