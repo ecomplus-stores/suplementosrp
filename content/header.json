@@ -16,7 +16,7 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "📦 FRETE GRÁTIS, CONSULTE",
-    "link": "https://suplementosrp.netlify.app/pages/entrega",
+    "link": "/pages/entrega",
     "background": "#e0e0e0",
     "color": "#121212"
   },
