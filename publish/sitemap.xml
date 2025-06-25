@@ -1676,6 +1676,12 @@
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/chegou</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/emagrecimento/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2049,12 +2055,6 @@
   
     <url>
       <loc>https://www.suplementosrp.com.br/repositor-energetico/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.suplementosrp.com.br/chegou</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
