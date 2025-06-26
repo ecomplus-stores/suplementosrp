@@ -1292,12 +1292,6 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/gluta1k</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/magnesium-bis-glycinate-120-capsulas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1497,12 +1491,6 @@
   
     <url>
       <loc>https://www.suplementosrp.com.br/creapure</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.suplementosrp.com.br/glutamina-isolates</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2366,6 +2354,12 @@
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2390,12 +2384,6 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2414,15 +2402,15 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.suplementosrp.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
