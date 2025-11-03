@@ -47,15 +47,6 @@
       ]
     },
     {
-      "type": "custom-content",
-      "markdown": "[PROMOÇÕES DO MÊS ](/promocoes/)"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -64,6 +55,15 @@
       "sort": "news",
       "link": "/acessorios-vestuario/",
       "title": "Chegou Agora!"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "[PROMOÇÕES DO MÊS ](/promocoes/)"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
