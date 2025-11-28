@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://www.suplementosrp.com.br/chegou</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/vitamina-d3-k2-liquida-sabor-limao-20ml-dux</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1658,6 +1652,12 @@
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/magnesio--inositol-relief-night-assist-300g-profit</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/emagrecimento/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2036,6 +2036,12 @@
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/chegou</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/rudel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2354,12 +2360,6 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2367,6 +2367,12 @@
   
     <url>
       <loc>https://www.suplementosrp.com.br/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.suplementosrp.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
