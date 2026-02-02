@@ -380,12 +380,6 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/chegou</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/vitamina-d3-k2-liquida-sabor-limao-20ml-dux</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -2066,6 +2060,12 @@
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/chegou</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/rudel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2372,19 +2372,25 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.suplementosrp.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2397,12 +2403,6 @@
   
     <url>
       <loc>https://www.suplementosrp.com.br/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.suplementosrp.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
