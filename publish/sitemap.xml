@@ -2408,12 +2408,6 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2438,13 +2432,19 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/pages/termos</loc>
+      <loc>https://www.suplementosrp.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/pages/sobre-nos</loc>
+      <loc>https://www.suplementosrp.com.br/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.suplementosrp.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2462,15 +2462,15 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.suplementosrp.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
