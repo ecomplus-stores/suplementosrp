@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4f1722cc6c9971d963ad606618f6f800.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.64cc9bd822384941f9b1acc05ec77b33.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e857c278b5eca925ac9b34e94113dfeb.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3892bbd7a3f98ff656af3383ad3516f1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.98999c54648a781435066ddd9c902dc8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Suplementos Ribeirão Preto",
+  "short_name": "Suplementos em Ribeirão Preto: Proteínas, Creatina e Mais | Suplementos RP",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Suplementos Ribeirão Preto é a sua loja online de suplementos nutricionais e esportivos. Com uma vasta gama de produtos que incluem proteínas, creatinas, pré-treinos, vitaminas e muito mais, a loja atende a todas as suas necessidades de saúde e bem-estar. Além de suplementos, você também encontrará acessórios e roupas para seus treinos. Com sede em Ribeirão Preto, SP, a Suplementos RP oferece diversas opções de pagamento e entrega para todo o Brasil.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
