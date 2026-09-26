@@ -1700,12 +1700,6 @@
     </url>
   
     <url>
-      <loc>https://www.suplementosrp.com.br/chegou</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.suplementosrp.com.br/emagrecimento/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2084,6 +2078,12 @@
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/chegou</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/max_titanium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2348,6 +2348,12 @@
     </url>
   
     <url>
+      <loc>https://www.suplementosrp.com.br/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.suplementosrp.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2361,12 +2367,6 @@
   
     <url>
       <loc>https://www.suplementosrp.com.br/pages/termos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.suplementosrp.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
